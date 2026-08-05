@@ -19,7 +19,7 @@ notes/       my own notes and write-ups, separate from assignment work
 | # | Lesson | Status |
 |---|---|---|
 | 01 | Defining Data Science | Done — 31 Jul 2026 |
-| 02 | Data Science Ethics | — |
+| 02 | Data Science Ethics | Done — 5 Aug 2026 |
 | 03 | Defining Data | Done — 1 Aug 2026 |
 | 04 | Statistics & Probability | — |
 | 05 | Relational Databases | — |
